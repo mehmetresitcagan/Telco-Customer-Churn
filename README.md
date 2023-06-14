@@ -1,6 +1,6 @@
 # Telco Customer Churn Project Report
 
-**Authors:** Ali Dikme, Burak Par, Mehmet Reşit Çağan
+**Author:** Mehmet Reşit Çağan
 
 ## Introduction
 In this project, we aimed to analyze telco customer churn data and build machine learning models to predict customer churn. This report summarizes the steps we took, the achievements, and the evaluation results of our models.
